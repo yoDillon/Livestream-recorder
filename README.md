@@ -10,11 +10,13 @@ BeautifulSoup4 (optional, for HTML parsing) https://pypi.org/project/beautifulso
 
 
 For YouTube Livestreams
-You cannot reliably grab a direct stream URL from the <video> tag. You need to use a library that can extract the actual stream URL, like yt-dlp.
+You cannot reliably grab a direct stream URL from the <video> tag. 
+You need to use a library that can extract the actual stream URL, like yt-dlp.
 
 Here’s a robust solution:
 
 Use yt-dlp to poll for livestream availability and get the stream URL.
+
 Use ffmpeg to record once yt-dlp finds a live stream.
 
 Instructions
