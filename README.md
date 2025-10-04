@@ -23,7 +23,9 @@ Instructions
 Install yt-dlp:
 
 pip install yt-dlp
+
 Or download from yt-dlp releases.
+
 https://github.com/yt-dlp/yt-dlp/releases
 
 Install ffmpeg and ensure it’s in your PATH.
