@@ -32,5 +32,5 @@ Install ffmpeg and ensure it’s in your PATH.
 
 
 Run the script:
-python livestream_recorder.py
+python_livestream_recorder.py
 
