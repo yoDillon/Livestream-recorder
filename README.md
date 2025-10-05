@@ -30,6 +30,8 @@ https://github.com/yt-dlp/yt-dlp/releases
 
 Install ffmpeg and ensure it’s in your PATH.
 
+FFMPEG_PATH = r"C:\Users\{YOUR_DIRECTORY}\bin\ffmpeg.exe"
+
 
 Run the script:
 python_livestream_recorder.py
