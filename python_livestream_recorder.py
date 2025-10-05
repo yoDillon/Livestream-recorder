@@ -18,8 +18,7 @@ OUTPUT_FILE = "recorded_stream.mp4"
 
 # Full path to your ffmpeg executable.
 # Edit this if you move ffmpeg elsewhere!
-FFMPEG_PATH = r"C:\Users\\\\\ffmpeg.exe"
-
+FFMPEG_PATH = r"C:\Users{YOUR_DIRECTORY}\bin\ffmpeg.exe"
 # ---------------------------------------------------
 # ADVANCED: yt-dlp OPTIONS (optional)
 # ---------------------------------------------------
